@@ -1,4 +1,10 @@
-### Hello world! Eu sou a Bruna Silva ⚡
+<div align="left">
+🌎 Hello world! Eu sou a Bruna Silva <br>
+💻 Desenvolvedora Java Full Stack Jr. <br>
+📚 Em formação
+</div>
+
+##
 
 <div align="center">
   <a href="https://github.com/brunalsilva">
