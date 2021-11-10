@@ -29,8 +29,8 @@
    ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="GIF-girls" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90981638/141023056-45ba58ad-3977-4168-9b0f-d38ec1734b96.gif">
-  <img align="center" alt="GIF-girls" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90981638/141023418-dcc1c7ef-0166-4771-9c19-58cd48c7146c.gif">
+  <img align="center" alt="GIF-girls" height="110" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90981638/141023056-45ba58ad-3977-4168-9b0f-d38ec1734b96.gif">
+  <img align="center" alt="GIF-girls" height="110" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90981638/141023418-dcc1c7ef-0166-4771-9c19-58cd48c7146c.gif">
   </dif>
   
  ##
