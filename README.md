@@ -22,19 +22,19 @@
   <img align="center" alt="Rafa-HTML" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="Rafa-CSS" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="right" alt="GIF-girls" height="240" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90981638/141024396-ccd21537-583d-44b9-a554-284eb37d63df.gif">
+  <img align="right" alt="GIF-cat" height="240" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90981638/141019576-5c0b69c1-1ea7-4019-805a-f5028f0a304b.gif">
     </dif>
   
    ##
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="GIF-cat" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90981638/141019576-5c0b69c1-1ea7-4019-805a-f5028f0a304b.gif">
   <img align="center" alt="GIF-girls" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90981638/141023056-45ba58ad-3977-4168-9b0f-d38ec1734b96.gif">
-  <img align="right" alt="GIF-girls" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90981638/141024396-ccd21537-583d-44b9-a554-284eb37d63df.gif">
   <img align="center" alt="GIF-girls" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90981638/141023418-dcc1c7ef-0166-4771-9c19-58cd48c7146c.gif">
   </dif>
   
  ##
-  
+  <br>
   <div> 
     <a href="https://www.linkedin.com/in/bruna-silva-671402224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:beyss21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
