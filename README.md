@@ -1,8 +1,8 @@
 <div align="left">
-<h3>🌎 Hello world! <br>
-😊 Eu sou a Bruna Silva <br>
-🎈 Tenho 24 anos <br>
-💻 Desenvolvedora Java Full Stack Jr. <br>
+<h3>🌎 Hello world! <br><br>
+😊 Eu sou a Bruna Silva <br><br>
+🎈 Tenho 24 anos <br><br>
+💻 Desenvolvedora Java Full Stack Jr. <br><br>
 📚 Em formação <br> </h3>
 </div>
 
