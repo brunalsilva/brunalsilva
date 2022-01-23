@@ -2,8 +2,7 @@
 🌎 Hello world! <br>
 😊 Eu sou a Bruna Silva <br>
 🎈 Tenho 24 anos <br>
-💻 Desenvolvedora Java Full Stack Jr. <br>
-📚 Em formação <br>
+💻 Desenvolvedora Java Jr. <br>
 </div>
 
   ## 
