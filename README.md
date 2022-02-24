@@ -1,7 +1,7 @@
 <div align="left">
 🌎 Hello world! <br>
 😊 Eu sou a Bruna Silva <br>
-🎈 Tenho 24 anos <br>
+🎈 Tenho 25 anos <br>
 💻 Desenvolvedora Java Jr. <br>
 </div>
 
