@@ -1,7 +1,6 @@
 <div align="left">
 🌎 Hello world! <br>
-😊 Eu sou a Bruna Silva <br>
-💻 Desenvolvedora Back End <br>
+💻 I'm Bruna Silva from Brazil and I'm a software engineer <br>
 </div>
 
   ## 
