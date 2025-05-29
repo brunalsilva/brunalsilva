@@ -12,16 +12,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunalsilva&layout=compact&langs_count=7&theme=radical"/>
   </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-  <img align="center" alt="Rafa-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" alt="Rafa-CSS" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="center" alt="Rafa-Js" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="right" alt="GIF-cat" height="220" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90981638/141019576-5c0b69c1-1ea7-4019-805a-f5028f0a304b.gif">
-    <img align="right" alt="GIF-girls" height="220" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90981638/141024396-ccd21537-583d-44b9-a554-284eb37d63df.gif">
-    </dif>
-  
    ##
   
 <div style="display: inline_block"><br>
